@@ -12,8 +12,7 @@
         "main.ts"
     ],
     "testFiles": [
-        "test.ts",
-        "_locales/nl/classroom-strings.json"
+        "test.ts"
     ],
     "public": false,
     "installedVersion": "file:../pxt-classroom"
