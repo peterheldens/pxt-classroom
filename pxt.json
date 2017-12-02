@@ -1,6 +1,6 @@
 {
     "name": "classroom",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "PXT package for projects in Microbit101 book",
     "license": "MIT",
     "dependencies": {
