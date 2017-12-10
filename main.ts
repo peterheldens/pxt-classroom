@@ -20,7 +20,7 @@ namespace classroom {
     //% block
     //% weight=85 blockGap=8
     //% parts="neopixel"
-    export function dobbelsteen(): number {
+    export function dobbelsteentje(): number {
         return Math.random(6) + 1;
     }
     //% block
