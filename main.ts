@@ -18,6 +18,8 @@ namespace classroom {
     let prev_z = cur_z
 
     //% block
+    //% weight=85 blockGap=8
+    //% parts="neopixel"
     export function dobbelsteen(): number {
         return Math.random(6) + 1;
     }
